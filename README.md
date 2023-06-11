@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on Big projects
 - 💬 Ask me about my philosophy on life.
-- 📫 How to reach me: E-mail
+- 📫 How to reach me: mkhalid.bscs21seecs@seecs.edu.pk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Video games.
+- ⚡ Fun fact: I love movies and tv shows.
 -->
